@@ -338,9 +338,3 @@ if __name__ == '__main__':
     main_page = MainPage()
     main_page.show()
     sys.exit(app.exec_())
-
-if __name__ == '__main__':
-    app = QApplication(sys.argv)
-    main_page = MainPage()
-    main_page.show()
-    sys.exit(app.exec_())
